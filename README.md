@@ -6,7 +6,7 @@
 - :gear: The tools:
 <div float="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=E34F26">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=fd982d">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=264de6">
@@ -45,6 +45,15 @@
   
 </div>
 <div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=e94e31">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=010409">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=68a063">
+  </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=slack&fill=581856">
   </a>
