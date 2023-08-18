@@ -5,7 +5,7 @@
 #### - 📫 How to reach => [Linkedin](https://www.linkedin.com/in/michele-canini-1a71b2134/)
 #### - :gear: The tools:
 <div float="left">
-  <a href="">
+  <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=fd982d">
   </a>
   <a href="#">
