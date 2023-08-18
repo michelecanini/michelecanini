@@ -24,9 +24,6 @@
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=00c180">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img  src="https://readme-components.vercel.app/api?component=logo&fill=7887ff&logo=vite.js&svgfill=#7887ff">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=php&fill=7a86b8">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -48,13 +45,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=slack&fill=581856">
   </a>
-  
-  
-  
-  
-  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=notion&fill=black">
+  </a>
 </div>
 <!--
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=7887ff&logo=vite.js&svgfill=#7887ff">
+  </a>
 <div float="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
