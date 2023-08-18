@@ -4,8 +4,57 @@
 - :rocket: This is my Portfolio => [Website](https://michelecanini.github.io)
 - 📫 How to reach => [Linkedin](https://www.linkedin.com/in/michele-canini-1a71b2134/)
 - :gear: The tools:
-
-
+<div float="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=E34F26">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=264de6">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=efd81d">
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=7710f6">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=00c180">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=7887ff&logo=vite.js&svgfill=#7887ff">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=php&fill=7a86b8">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=laravel&fill=ff2d20">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=00758f">
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=wordpress&fill=464646">
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=shopify&fill=81c038">
+  </a>
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=firefox&fill=b940e2">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img  src="https://readme-components.vercel.app/api?component=logo&logo=slack&fill=581856">
+  </a>
+  
+  
+  
+  
+  
+</div>
+<!--
 <div float="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -13,6 +62,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
+  </div>
+  <div float="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
@@ -28,7 +79,7 @@
   <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/> --->
