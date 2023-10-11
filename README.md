@@ -42,7 +42,7 @@
 </div>
 
 #### [:rocket: => This is my Portfolio](https://michelecanini.github.io)
-#### [📫 How to reach => Linkedin](https://www.linkedin.com/in/michele-canini-1a71b2134/)
+#### [📫 => How to reach me: Linkedin](https://www.linkedin.com/in/michele-canini-1a71b2134/)
 
 <!---
 michelecanini/michelecanini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
