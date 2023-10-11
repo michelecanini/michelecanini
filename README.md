@@ -41,8 +41,8 @@
   </a>
 </div>
 
-#### - :rocket: This is my Portfolio => [Website](https://michelecanini.github.io)
-#### - 📫 How to reach => [Linkedin](https://www.linkedin.com/in/michele-canini-1a71b2134/)
+#### :rocket: This is my Portfolio => [Website](https://michelecanini.github.io)
+#### 📫 How to reach => [Linkedin](https://www.linkedin.com/in/michele-canini-1a71b2134/)
 
 <!---
 michelecanini/michelecanini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
