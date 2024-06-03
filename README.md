@@ -3,6 +3,24 @@
 
 <div float="left" align="center">
   <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&fill=58c4dc">
+   </a>
+  <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=ruby&text=true&fill=cc342d">
+   </a>
+  <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=true&fill=3178c6">
+   </a>
+  <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=rubyonrails&text=true&fill=d30001">
+   </a>
+   <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=336791">
+   </a>
+  <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=heroku&text=true&fill=79589f">
+   </a>
+  <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=php&fill=7a86b8">
   </a>
   <a href="#">
