@@ -49,9 +49,9 @@
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=00758f">
   </a>
-<!--   <a href="#">
+  <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=e94e31">
-  </a> -->
+  </a>
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=010409">
   </a>
