@@ -17,9 +17,6 @@
    <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=336791">
    </a>
-   <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=true&fill=0ea5e9">
-   </a>
   
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=php&fill=7a86b8">
@@ -36,6 +33,9 @@
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=264de6">
   </a>
+  <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=true&fill=0ea5e9">
+   </a>
    <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=7710f6">
   </a>
