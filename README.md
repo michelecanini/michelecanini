@@ -17,9 +17,7 @@
    <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=336791">
    </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=heroku&text=true&fill=79589f">
-   </a>
+  
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=php&fill=7a86b8">
   </a>
@@ -57,6 +55,9 @@
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=68a063">
   </a>
+  <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=heroku&text=true&fill=79589f">
+   </a>
 </div>
 
 #### [:rocket: => This is my Portfolio](https://michelecanini.github.io)
