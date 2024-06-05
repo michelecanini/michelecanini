@@ -61,6 +61,9 @@
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=heroku&text=true&fill=79589f">
    </a>
+   <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=true&fill=010409">
+   </a>
 </div>
 
 #### [:rocket: => This is my Portfolio](https://michelecanini.github.io)
