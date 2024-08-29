@@ -1,5 +1,5 @@
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=5000&color=0C5BCE&center=true&repeat=false&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Michele+Canini++Full-Stack+Web+Developer+jr.)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=5000&color=0C5BCE&center=true&repeat=false&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Michele+Canini+Junior+Full-Stack+Web+Developer)](https://git.io/typing-svg) 
 
 <div float="left" align="center">
   <a href="#">
