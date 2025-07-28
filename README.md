@@ -3,6 +3,8 @@
 
 ## 🔧 Tools & Technologies
 <code><img title="React" height="25" src="images/react-original.svg"></code>
+<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+<code><img title="Php" height="25" src="images/php.svg"></code>
 <code><img title="Ruby" height="25" src="images/ruby-original.jpg"></code>
 <code><img title="Python" height="25" src="images/python-original.svg"></code>
 <code><img title="Ruby On Rails" height="25" src="images/rails-original.png"></code>
@@ -20,18 +22,9 @@
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=true&fill=3178c6">
    </a>
-   <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=336791">
-   </a>
-  
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=php&fill=7a86b8">
-  </a>
+   
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=laravel&fill=ff2d20">
-  </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=efd81d">
   </a>
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=fd982d">
