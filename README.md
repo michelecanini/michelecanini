@@ -2,6 +2,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=5000&color=0C5BCE&center=true&repeat=false&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Michele+Canini+Junior+Full-Stack+Web+Developer)](https://git.io/typing-svg) 
 
 ## 🔧 Tools & Technologies
+<code><img title="Android" height="25" src="images/android.svg"></code>
 <code><img title="React" height="25" src="images/react-original.svg"></code>
 <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
 <code><img title="Php" height="25" src="images/php.svg"></code>
@@ -16,6 +17,8 @@
 <code><img title="Sass" height="25" src="images/sass.svg"></code>
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="GitHub" height="25" src="images/github.svg"></code>
+<code><img title="Npm" height="25" src="images/npm.svg"></code>
+<code><img title="Stackoverflow" height="25" src="images/stackoverflow.svg"></code>
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 
 <div float="left" align="center">
