@@ -2,13 +2,17 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=5000&color=0C5BCE&center=true&repeat=false&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Michele+Canini+Junior+Full-Stack+Web+Developer)](https://git.io/typing-svg) 
 
 ## 🔧 Tools & Technologies
+<code><img title="Flutter" height="25" src="images/flutter.png"></code>
 <code><img title="Android" height="25" src="images/android.svg"></code>
 <code><img title="React" height="25" src="images/react-original.svg"></code>
 <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+<code><img title="Typescript" height="25" src="images/typescript-original.png"></code>
 <code><img title="Php" height="25" src="images/php.svg"></code>
+<code><img title="Laravel" height="25" src="images/laravel.png"></code>
 <code><img title="Ruby" height="25" src="images/ruby-original.jpg"></code>
 <code><img title="Python" height="25" src="images/python-original.svg"></code>
 <code><img title="Ruby On Rails" height="25" src="images/rails-original.png"></code>
+<code><img title="Tailwind" height="25" src="images/tailwind.png"></code>
 <code><img title="HTML5" height="25" src="images/html5.svg"></code>
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -23,15 +27,6 @@
 
 <div float="left" align="center">
   
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=true&fill=3178c6">
-   </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=laravel&fill=ff2d20">
-  </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=true&fill=0ea5e9">
-   </a>
    <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=7710f6">
   </a>
