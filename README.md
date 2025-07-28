@@ -1,6 +1,17 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=5000&color=0C5BCE&center=true&repeat=false&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Michele+Canini+Junior+Full-Stack+Web+Developer)](https://git.io/typing-svg) 
 
+## 🔧 Tools & Technologies
+<code><img title="Python" height="25" src="images/python-original.svg"></code>
+<code><img title="HTML5" height="25" src="images/html5.svg"></code>
+<code><img title="CSS" height="25" src="images/css.svg"></code>
+<code><img title="Git" height="25" src="images/git-original.svg"></code>
+<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+<code><img title="JSON" height="25" src="images/json.svg"></code>
+<code><img title="GitHub" height="25" src="images/github.svg"></code>
+<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+
 <div float="left" align="center">
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&fill=58c4dc">
