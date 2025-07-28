@@ -2,6 +2,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=5000&color=0C5BCE&center=true&repeat=false&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Michele+Canini+Junior+Full-Stack+Web+Developer)](https://git.io/typing-svg) 
 
 ## 🔧 Tools & Technologies
+<code><img title="React" height="25" src="images/react-original.svg"></code>
 <code><img title="Python" height="25" src="images/python-original.svg"></code>
 <code><img title="HTML5" height="25" src="images/html5.svg"></code>
 <code><img title="CSS" height="25" src="images/css.svg"></code>
