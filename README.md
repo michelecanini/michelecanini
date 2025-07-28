@@ -13,6 +13,7 @@
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
 <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
 <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+<code><img title="Sass" height="25" src="images/sass.svg"></code>
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="GitHub" height="25" src="images/github.svg"></code>
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
@@ -26,33 +27,20 @@
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=laravel&fill=ff2d20">
   </a>
-  <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=fd982d">
-  </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=264de6">
-  </a>
+  
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=true&fill=0ea5e9">
    </a>
    <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=7710f6">
   </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-  </a>
+ 
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=00c180">
   </a>
   
   <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=00758f">
-  </a>
-  <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=e94e31">
-  </a>
-  <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=010409">
   </a>
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=68a063">
