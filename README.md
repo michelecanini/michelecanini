@@ -5,7 +5,7 @@
 <code><img title="React" height="25" src="images/react-original.svg"></code>
 <code><img title="Ruby" height="25" src="images/ruby-original.jpg"></code>
 <code><img title="Python" height="25" src="images/python-original.svg"></code>
-<code><img title="Ruby On Rails" height="25" src="images/rails-original.pgn"></code>
+<code><img title="Ruby On Rails" height="25" src="images/rails-original.png"></code>
 <code><img title="HTML5" height="25" src="images/html5.svg"></code>
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
