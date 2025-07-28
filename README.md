@@ -3,7 +3,9 @@
 
 ## 🔧 Tools & Technologies
 <code><img title="React" height="25" src="images/react-original.svg"></code>
+<code><img title="Ruby" height="25" src="images/ruby-original.jpg"></code>
 <code><img title="Python" height="25" src="images/python-original.svg"></code>
+<code><img title="Ruby On Rails" height="25" src="images/rails-original.pgn"></code>
 <code><img title="HTML5" height="25" src="images/html5.svg"></code>
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -14,17 +16,9 @@
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 
 <div float="left" align="center">
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin&fill=58c4dc">
-   </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=ruby&text=true&fill=cc342d">
-   </a>
+  
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=true&fill=3178c6">
-   </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=rubyonrails&text=true&fill=d30001">
    </a>
    <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=true&fill=336791">
