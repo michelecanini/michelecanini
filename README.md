@@ -31,7 +31,7 @@
 <code><img title="Nodejs" height="25" src="images/nodejs.png"></code>
 <code><img title="Vuejs" height="25" src="images/vuejs.png"></code>
 <code><img title="Heroku" height="25" src="images/heroku.png"></code>
-<code><img title="Linux" height="25" src="images/linux.png"></code>
+<code><img title="Linux2" height="25" src="images/linux.png"></code>
 
 
 #### [:rocket: => This is my Portfolio](https://michelecanini.github.io)
