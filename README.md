@@ -23,24 +23,17 @@
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=true&fill=3178c6">
    </a>
-   
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=laravel&fill=ff2d20">
   </a>
-  
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=true&fill=0ea5e9">
    </a>
    <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=7710f6">
   </a>
- 
   <a href="#">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=00c180">
-  </a>
-  
-  <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=e94e31">
   </a>
   <a href="#">
     <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=68a063">
