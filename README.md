@@ -4,12 +4,15 @@
 ## 🔧 Tools & Technologies
 <code><img title="Flutter" height="25" src="images/flutter.png"></code>
 <code><img title="Android" height="25" src="images/android.svg"></code>
+<code><img title="Dart" height="25" src="images/dart.png"></code>
+<code><img title="Material Design" height="25" src="images/material-design.png"></code>
 <code><img title="React" height="25" src="images/react-original.svg"></code>
 <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
 <code><img title="Typescript" height="25" src="images/typescript-original.png"></code>
 <code><img title="Php" height="25" src="images/php.svg"></code>
 <code><img title="Laravel" height="25" src="images/laravel.png"></code>
 <code><img title="Ruby" height="25" src="images/ruby-original.jpg"></code>
+<code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
 <code><img title="Python" height="25" src="images/python-original.svg"></code>
 <code><img title="Ruby On Rails" height="25" src="images/rails-original.png"></code>
 <code><img title="Tailwind" height="25" src="images/tailwind.png"></code>
@@ -24,25 +27,12 @@
 <code><img title="Npm" height="25" src="images/npm.svg"></code>
 <code><img title="Stackoverflow" height="25" src="images/stackoverflow.svg"></code>
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+<code><img title="Oracle" height="25" src="images/oracle.png"></code>
+<code><img title="Nodejs" height="25" src="images/nodejs.png"></code>
+<code><img title="Vuejs" height="25" src="images/vuejs.png"></code>
+<code><img title="Heroku" height="25" src="images/heroku.png"></code>
+<code><img title="Linux" height="25" src="images/linux.png"></code>
 
-<div float="left" align="center">
-  
-   <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=bootstrap&fill=7710f6">
-  </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=00c180">
-  </a>
-  <a href="#">
-    <img  src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=68a063">
-  </a>
-  <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=heroku&text=true&fill=79589f">
-   </a>
-   <a href="#">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=true&fill=010409">
-   </a>
-</div>
 
 #### [:rocket: => This is my Portfolio](https://michelecanini.github.io)
 #### [📫 => How to reach me: Linkedin](https://www.linkedin.com/in/michele-canini-1a71b2134/)
