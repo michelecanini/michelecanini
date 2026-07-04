@@ -29,6 +29,15 @@
 
 <br/><br/>
 
+<sub><b>Also worked with</b></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,vue,php,laravel,ruby,rails,python,flutter,dart,sass,bootstrap,mysql,git,linux&perline=14&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,vue,php,laravel,ruby,rails,python,flutter,dart,sass,bootstrap,mysql,git,linux&perline=14&theme=light" alt="JavaScript, Vue, PHP, Laravel, Ruby, Rails, Python, Flutter, Dart, Sass, Bootstrap, MySQL, Git, Linux" width="574">
+</picture>
+
+<br/><br/>
+
 <a href="https://michelecanini.dev/"><img src="https://img.shields.io/badge/Portfolio-michelecanini.dev-2563EB?style=for-the-badge" alt="Portfolio"></a>&nbsp;
 <a href="https://www.linkedin.com/in/michele-canini-1a71b2134/"><img src="https://img.shields.io/badge/LinkedIn-Michele%20Canini-0A66C2?style=for-the-badge" alt="LinkedIn"></a>&nbsp;
 <a href="https://openstarterkit.dev"><img src="https://img.shields.io/badge/🚀-openstarterkit.dev-7C3AED?style=for-the-badge" alt="OpenStarterKit"></a>
