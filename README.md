@@ -1,43 +1,36 @@
+<div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=5000&color=0C5BCE&center=true&repeat=false&random=false&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Michele+Canini+Junior+Software+Developer)](https://git.io/typing-svg) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/banner-dark.svg">
+  <img src="images/banner-light.svg" alt="Michele Canini — Full-Stack Developer, building in the open" width="830">
+</picture>
 
-## 🔧 Tools & Technologies
-<code><img title="Flutter" height="25" src="images/flutter.png"></code>
-<code><img title="Android" height="25" src="images/android.svg"></code>
-<code><img title="Dart" height="25" src="images/dart.png"></code>
-<code><img title="Material Design" height="25" src="images/material-design.png"></code>
-<code><img title="React" height="25" src="images/react-original.svg"></code>
-<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-<code><img title="Typescript" height="25" src="images/typescript-original.png"></code>
-<code><img title="Php" height="25" src="images/php.svg"></code>
-<code><img title="Laravel" height="25" src="images/laravel.png"></code>
-<code><img title="Ruby" height="25" src="images/ruby-original.jpg"></code>
-<code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
-<code><img title="Python" height="25" src="images/python-original.svg"></code>
-<code><img title="Ruby On Rails" height="25" src="images/rails-original.png"></code>
-<code><img title="Tailwind" height="25" src="images/tailwind.png"></code>
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="CSS" height="25" src="images/css.svg"></code>
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
-<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="Sass" height="25" src="images/sass.svg"></code>
-<code><img title="JSON" height="25" src="images/json.svg"></code>
-<code><img title="GitHub" height="25" src="images/github.svg"></code>
-<code><img title="Npm" height="25" src="images/npm.svg"></code>
-<code><img title="Stackoverflow" height="25" src="images/stackoverflow.svg"></code>
-<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-<code><img title="Oracle" height="25" src="images/oracle.png"></code>
-<code><img title="Nodejs" height="25" src="images/nodejs.png"></code>
-<code><img title="Vuejs" height="25" src="images/vuejs.png"></code>
-<code><img title="Heroku" height="25" src="images/heroku.png"></code>
-<code><img title="Linux" height="25" src="images/linux2.png"></code>
+<br/><br/>
 
+**I build open-source tools that help developers ship real SaaS products — fast.**
 
-#### [:rocket: => This is my Portfolio](https://michelecanini.dev/)
-#### [📫 => How to reach me: Linkedin](https://www.linkedin.com/in/michele-canini-1a71b2134/)
+<br/>
 
-<!---
-michelecanini/michelecanini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/openstarterkit/nextjs-saas-starter-kit">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/openstarterkit-card-dark.svg">
+    <img src="images/openstarterkit-card-light.svg" alt="OpenStarterKit — free and open-source Next.js SaaS starter kit" width="830">
+  </picture>
+</a>
+
+⭐ if it saves you time&nbsp;&nbsp;·&nbsp;&nbsp;☕ [if it saves you a lot](https://buymeacoffee.com/openstarterkit)
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres,nodejs,vercel&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres,nodejs,vercel&theme=light" alt="Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Node.js, Vercel">
+</picture>
+
+<br/><br/>
+
+<a href="https://michelecanini.dev/"><img src="https://img.shields.io/badge/Portfolio-michelecanini.dev-2563EB?style=for-the-badge" alt="Portfolio"></a>&nbsp;
+<a href="https://www.linkedin.com/in/michele-canini-1a71b2134/"><img src="https://img.shields.io/badge/LinkedIn-Michele%20Canini-0A66C2?style=for-the-badge" alt="LinkedIn"></a>&nbsp;
+<a href="https://openstarterkit.dev"><img src="https://img.shields.io/badge/🚀-openstarterkit.dev-7C3AED?style=for-the-badge" alt="OpenStarterKit"></a>
+
+</div>

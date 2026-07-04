@@ -1,0 +1,34 @@
+<svg width="830" height="220" viewBox="0 0 830 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip"><rect width="830" height="220" rx="18"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="830" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0F1E"/>
+      <stop offset="1" stop-color="#131C38"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="230" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA">
+        <animate attributeName="stop-color" values="#60A5FA;#A78BFA;#22D3EE;#60A5FA" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#22D3EE;#60A5FA;#A78BFA" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="soft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="45"/></filter>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="830" height="220" fill="url(#bg)"/>
+    <circle cx="60" cy="10" r="110" fill="#3B82F6" opacity="0.15" filter="url(#soft)"/>
+    <circle cx="790" cy="210" r="120" fill="#8B5CF6" opacity="0.15" filter="url(#soft)"/>
+    <circle cx="620" cy="-20" r="80" fill="#22D3EE" opacity="0.10" filter="url(#soft)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="829" height="219" rx="17.5" stroke="#26324D"/>
+  <text x="415" y="98" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1" fill="url(#txt)">Michele Canini</text>
+  <text x="415" y="134" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="0.3" fill="#8FA3C4">Full-Stack Developer · Building in the open</text>
+  <g>
+    <rect x="288" y="156" width="254" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.04" stroke="#2D3B5C"/>
+    <circle cx="312" cy="173" r="4" fill="#34D399">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="330" y="178" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#C7D2E8">Now shipping · OpenStarterKit</text>
+  </g>
+</svg>
