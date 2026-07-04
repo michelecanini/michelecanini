@@ -20,7 +20,7 @@
   <text x="62" y="83" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="800" fill="#FFFFFF">OSK</text>
   <text x="120" y="62" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#0F172A">OpenStarterKit</text>
   <text x="800" y="60" text-anchor="end" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#2563EB">openstarterkit.dev &#8599;</text>
-  <text x="120" y="88" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#526581">Free &amp; open-source Next.js SaaS starter kit — full payments included, no vendor lock-in.</text>
+  <text x="120" y="88" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#526581">Free &amp; open-source Next.js SaaS starter kit. Full payments included, no vendor lock-in.</text>
   <g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">
     <rect x="120" y="102" width="64" height="24" rx="12" fill="#0F172A" fill-opacity="0.03" stroke="#D8E0EE"/>
     <text x="152" y="118" text-anchor="middle" fill="#3B4A63">Next.js</text>

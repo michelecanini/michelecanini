@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-**I build open-source tools that help developers ship real SaaS products — fast.**
+**I build open-source tools that help developers ship real SaaS products, fast.**
 
 <br/>
 
