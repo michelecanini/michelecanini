@@ -23,7 +23,7 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres,nodejs,vercel&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Ctailwind%2Cprisma%2Cpostgres%2Cnodejs%2Cvercel&theme=dark">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres,nodejs,vercel&theme=light" alt="Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Node.js, Vercel">
 </picture>
 
@@ -32,7 +32,7 @@
 <sub><b>Also worked with</b></sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,vue,php,laravel,ruby,rails,python,flutter,dart,sass,bootstrap,mysql,git,linux&perline=14&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cvue%2Cphp%2Claravel%2Cruby%2Crails%2Cpython%2Cflutter%2Cdart%2Csass%2Cbootstrap%2Cmysql%2Cgit%2Clinux&perline=14&theme=dark">
   <img src="https://skillicons.dev/icons?i=js,vue,php,laravel,ruby,rails,python,flutter,dart,sass,bootstrap,mysql,git,linux&perline=14&theme=light" alt="JavaScript, Vue, PHP, Laravel, Ruby, Rails, Python, Flutter, Dart, Sass, Bootstrap, MySQL, Git, Linux" width="574">
 </picture>
 
